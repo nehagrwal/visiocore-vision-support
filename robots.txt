@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/visiocore-vision-support/sitemap.xml
+Sitemap: https://visiocore-vision-support.vercel.app/sitemap-vercel.xml
+Sitemap: https://visiocore-vision-support.pages.dev/sitemap-cloudflare.xml
